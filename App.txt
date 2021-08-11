@@ -1,0 +1,7 @@
+Programa para barxar vídeos do YouTube com resolução escolhida pelo usuário.
+    - Abrir caixa para receber o link de um vídeo.
+    - Mostrar opção de resoluções para download.
+    - Perguntar onde o usuário quer salvar o vídeo.
+    - Perguntar se ele quer baixar outro vídeo. 
+        - Se sim, repetir processo.
+        - Se não, fechar programa.
